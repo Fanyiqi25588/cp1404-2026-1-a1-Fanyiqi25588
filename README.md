@@ -20,9 +20,7 @@ The program loads place data from a CSV file and allows the user to display plac
 
 ## How to Run
 Run the program using:
-
 python assignment1.py
-
 Make sure the file **places.csv** is in the same folder as **assignment1.py**.
 
 ## Data Format
